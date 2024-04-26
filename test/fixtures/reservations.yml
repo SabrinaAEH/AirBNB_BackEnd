@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2024-04-26 16:13:56
+  end_date: 2024-04-26 16:13:56
+  user: one
+  listing: one
+
+two:
+  start_date: 2024-04-26 16:13:56
+  end_date: 2024-04-26 16:13:56
+  user: two
+  listing: two
